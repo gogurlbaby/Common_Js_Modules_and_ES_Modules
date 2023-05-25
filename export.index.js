@@ -9,7 +9,7 @@ export function addNumbers(a, b) {
 }
 
 // Dummy function 2
-// Using ES module pattern to export to export.js file
+// Using ES module pattern to export to export.mjs file
 export function multiplyNumbers(num1, num2) {
   return a * b;
 }

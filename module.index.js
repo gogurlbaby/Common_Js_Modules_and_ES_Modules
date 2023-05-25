@@ -12,10 +12,10 @@ function multiplyNumbers(a, b) {
   return a * b;
 }
 
-// Exporting variables and functions using module pattern to export to another file
+// Exporting variables and functions using module pattern to export to module.mjs file
 module.exports = {
-    // num1: num1,
-    // num2: num2,
-    // addNumbers: addNumbers,
+    num1: num1,
+    num2: num2,
+    addNumbers: addNumbers,
     multiplyNumbers: multiplyNumbers
   };
