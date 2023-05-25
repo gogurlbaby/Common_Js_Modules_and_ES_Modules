@@ -1,5 +1,5 @@
 // Importing variables and functions
-const myModule = require("./module.index");
+const myModule = require("./index_module");
 
 // Accessing exported variables and functions
 console.log(myModule.num1); // Output: 5

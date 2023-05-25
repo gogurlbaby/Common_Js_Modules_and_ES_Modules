@@ -1,5 +1,5 @@
 // Importing variables and functions
-import { num1, num2, addNumbers, multiplyNumbers } from "./export.index";
+import { num1, num2, addNumbers, multiplyNumbers } from "./index_export";
 
 // Accessing exported variables and functions
 console.log(num1); // Output: 5
